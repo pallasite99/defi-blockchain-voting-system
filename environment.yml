@@ -1,3 +1,6 @@
 env:
   FOD_CLIENT_ID: ${{ secrets.FOD_CLIENT_ID }}
   FOD_CLIENT_SECRET: ${{ secrets.FOD_CLIENT_SECRET }}
+  FOD_TENANT: ${{ secrets.FOD_TENANT }}
+  FOD_USER: ${{ secrets.FOD_USER }}
+  FOD_PASSWORD: ${{ secrets.FOD_PASSWORD }}
